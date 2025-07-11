@@ -16,3 +16,9 @@ Todo:
 2. 閱讀文章整理線上筆記-每周分享
 
 > 透過測試來認識軟體開發
+
+
+===
+
+- TDD
+  - [軟體世界裡的 TDD/BDD/ATDD！懶人包幫你一次釐清(一)](https://ithelp.ithome.com.tw/articles/10304460)
