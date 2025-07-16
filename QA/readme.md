@@ -17,6 +17,12 @@ Todo:
 
 > 透過測試來認識軟體開發
 
+===
+
+## 測試 以 Jest為例
+![](https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202002%2F%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F_2020_2_2_%E4%B8%8A%E5%8D%889_40.png?alt=media&token=251f2e66-b504-4c1e-904f-d07c0f33ce23)
+<https://www.casper.tw/development/2020/02/02/jest-intro/>
+
 
 ===
 
