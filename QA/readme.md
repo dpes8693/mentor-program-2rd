@@ -49,7 +49,8 @@ Jest需要安裝 (node.js環境)
 5. [企業需要]使用測試工具自動化測試產品，產生測試報告
 
 - 透過程式操作瀏覽器(web自動化)
-  - <https://browser-use.com/>
+  - source <https://github.com/browser-use/browser-use> 
+  - web <https://browser-use.com/>
 
 - AI_API_KEY
   - <https://aistudio.google.com/apikey>
