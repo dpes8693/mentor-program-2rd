@@ -36,3 +36,28 @@ Jest需要安裝 (node.js環境)
 
 - TDD
   - [軟體世界裡的 TDD/BDD/ATDD！懶人包幫你一次釐清(一)](https://ithelp.ithome.com.tw/articles/10304460)
+
+===
+
+## 目標
+
+0. 基礎資訊工具&知識的掌握 [link](https://www.notion.so/217ae005d65e80eaaf88e4422d6a872c?pvs=21)
+1. 能夠說出&理解 測試帶來的好處
+2. 能實際在專案去寫過/用過測試
+3. 可以使用拿專案帶其他人走一遍[網頁]單元測試 -- demo
+4. 可以使用拿專案帶其他人走一遍[網頁]端對端測試 -- demo
+5. [企業需要]使用測試工具自動化測試產品，產生測試報告
+
+- 透過程式操作瀏覽器(web自動化)
+  - <https://browser-use.com/>
+
+- AI_API_KEY
+  - <https://aistudio.google.com/apikey>
+
+### 生活案例
+
+收集資料建立csv
+<https://r2.browser-use.com/csv_2.mp4>
+
+飛機航班查詢
+<https://r2.browser-use.com/google_flights_demo.mp4>
