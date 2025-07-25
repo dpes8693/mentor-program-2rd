@@ -52,7 +52,11 @@ Jest需要安裝 (node.js環境)
   - source <https://github.com/browser-use/browser-use> 
   - web <https://browser-use.com/>
 
-- AI_API_KEY
+- browser-use.com/quickstart
+  - 快速開始 <https://docs.browser-use.com/quickstart>
+  - 使用gemini金鑰 <https://docs.browser-use.com/customize/supported-models#gemini>
+
+- gemini AI_API_KEY
   - <https://aistudio.google.com/apikey>
 
 ### 生活案例
